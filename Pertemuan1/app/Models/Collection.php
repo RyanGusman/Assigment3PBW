@@ -1,5 +1,5 @@
 <?php
-
+<!-- Ryan Gusman Yoel Banjarnahor 6706220098 -->
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
@@ -15,4 +15,3 @@ class Collection extends Model
         'jumlahKoleksi',
     ];
 }
-// Ryan Gusman Yoel Banjarnahor 670622098
